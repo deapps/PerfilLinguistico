@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/entrevista"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Entrevista" />
+        <item
+            android:id="@+id/serie"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Series" />
+        <item
+            android:id="@+id/guia"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Guia" />
+        <item
+            android:id="@+id/credito"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Creditos" />
+    </group>
+
+
+</menu>
