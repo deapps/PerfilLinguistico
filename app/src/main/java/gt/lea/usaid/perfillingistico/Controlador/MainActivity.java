@@ -1,4 +1,4 @@
-package gt.lea.usaid.perfillingistico.Controlador;
+package gt.lea.usaid.perfillingistico.controlador;
 
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
